@@ -1,0 +1,18 @@
+Mengenal Git: Alat Keren Buat Ngatur Kode
+
+Jadi, Git itu kayak alat canggih buat ngebantu orang bikin program tanpa bikin ribet. Git ini fungsinya buat ngelacak setiap perubahan di kode kita biar gak bingung kalo ada yang berubah atau bermasalah.
+
+Kenapa Git Keren:
+Nah, dengan Git, tim programmer bisa kerja barengan tanpa ribut. Jadi, tiap kali ada perubahan di kode, Git nyimpen itu semua kayak catatan perubahan. Ini jadi bermanfaat banget buat balik ke versi kode sebelumnya kalo ada masalah.
+
+Cara Git Bekerja:
+Bayangin aja Git kayak buku harian buat kode. Setiap kali kamu nambahin atau ubah kode, Git nulis catatan perubahannya. Ini ngebantu kita ngeliat perbedaan di kode dan bisa balik ke versi lama kalau perlu.
+
+Dasar-Dasar Pakai Git:
+Di sini, kita bakal ngomongin langkah-langkah awal pake Git. Mulai dari atur akun, bikin tempat khusus buat kode (repository), sampe ngunggah kode ke tempat kayak GitHub atau GitLab.
+
+Keuntungan Pakai Git:
+Materi ini bakal ngebahas kenapa Git itu berguna. Salah satunya adalah tim programmer bisa kerja bersamaan di proyek yang sama tanpa rebutan. Git juga membantu kita atur kode yang rumit dan mencegah kehilangan perubahan penting.
+
+Penutup:
+Jadi, intinya Git ini bikin hidup programmer lebih mudah. Git mempermudah kerja bareng, ngeatur kode, dan ngindari masalah pas bikin aplikasi.
